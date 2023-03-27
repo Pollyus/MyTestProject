@@ -1,0 +1,56 @@
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\bin\Release\net6.0\TestAppData.deps.json
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\bin\Release\net6.0\TestAppData.runtimeconfig.json
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\bin\Release\net6.0\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\bin\Release\net6.0\TestAppData.pdb
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.csproj.AssemblyReference.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfoInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfo.cs
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.csproj.CoreCompileInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\refint\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.pdb
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\TestAppData.genruntimeconfig.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestAppData\obj\Release\net6.0\ref\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.deps.json
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.runtimeconfig.json
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.pdb
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.csproj.AssemblyReference.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfoInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfo.cs
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.csproj.CoreCompileInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\refint\TestAppData.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.pdb
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.genruntimeconfig.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\ref\TestAppData.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.deps.json
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.runtimeconfig.json
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\bin\Release\net6.0\TestAppData.pdb
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.csproj.AssemblyReference.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfoInputs.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfo.cs
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.csproj.CoreCompileInputs.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\refint\TestAppData.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.pdb
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\TestAppData.genruntimeconfig.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestAppData\obj\Release\net6.0\ref\TestAppData.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\bin\Release\net6.0\TestAppData.deps.json
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\bin\Release\net6.0\TestAppData.runtimeconfig.json
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\bin\Release\net6.0\TestAppData.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\bin\Release\net6.0\TestAppData.pdb
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.csproj.AssemblyReference.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfoInputs.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.AssemblyInfo.cs
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.csproj.CoreCompileInputs.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\refint\TestAppData.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.pdb
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\TestAppData.genruntimeconfig.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestAppData\obj\Release\net6.0\ref\TestAppData.dll

@@ -1,0 +1,48 @@
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\bin\Release\net6.0\TestReport.deps.json
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\bin\Release\net6.0\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\bin\Release\net6.0\TestReport.pdb
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.csproj.AssemblyReference.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.AssemblyInfoInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.AssemblyInfo.cs
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.csproj.CoreCompileInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\refint\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\TestReport.pdb
+C:\Учеба\Практика\Копия\Runner — копия\TestReport\obj\Release\net6.0\ref\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.deps.json
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.pdb
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.csproj.AssemblyReference.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.AssemblyInfoInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.AssemblyInfo.cs
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.csproj.CoreCompileInputs.cache
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\refint\TestReport.dll
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.pdb
+C:\Учеба\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\ref\TestReport.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.deps.json
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\bin\Release\net6.0\TestReport.pdb
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.csproj.AssemblyReference.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.AssemblyInfoInputs.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.AssemblyInfo.cs
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.csproj.CoreCompileInputs.cache
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\refint\TestReport.dll
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\TestReport.pdb
+D:\ИГЭУ обучение\ПОКС\3 курс\6 семестр\Все файлы\Практика\Копия\Runner — копия — копия (4)\TestReport\obj\Release\net6.0\ref\TestReport.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\bin\Release\net6.0\TestReport.deps.json
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\bin\Release\net6.0\TestReport.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\bin\Release\net6.0\TestReport.pdb
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.csproj.AssemblyReference.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.AssemblyInfoInputs.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.AssemblyInfo.cs
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.csproj.CoreCompileInputs.cache
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\refint\TestReport.dll
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\TestReport.pdb
+C:\Учеба\ПОКС\Диплом\Программа\MyTests\TestReport\obj\Release\net6.0\ref\TestReport.dll

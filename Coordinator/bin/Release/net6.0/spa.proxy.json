@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44489",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Учеба\\ПОКС\\Диплом\\Программа\\MyTests\\Coordinator\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
