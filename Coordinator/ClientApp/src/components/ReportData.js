@@ -92,7 +92,7 @@ export class ReportData extends Component {
   }
 
   async populateWeatherData() {
-    const response = await fetch('api/reports/get/all');
+    const response = await fetch('api/report/get/all');
     const data = await response.json();
     
     this.setState({ reports: data, loading: false });

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route } from 'react-router';
 import { Layout } from './components/Layout';
 import { Home } from './components/Home';
-//import  { Chart } from './components/Chart';
+import  { Chart } from './components/Chart';
 import { ReportData } from './components/ReportData';
 import { ResultData } from './components/ResultData';
 
@@ -17,7 +17,7 @@ export default class App extends Component {
         <Route exact path='/' component={Home} />
         <Route path='/report-data' component={ReportData} />
         <Route path='/result-data' component={ResultData} />
-        
+        <Route path='/chart' component={Chart} />
         
       </Layout>
     );

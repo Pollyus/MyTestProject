@@ -33,9 +33,17 @@ namespace Coordinator.Controllers
         //Загрузка отчетов на сервер
         [HttpPost("load")]
         public Task<IActionResult> UploadFile([FromBody] TestReportLoad testReport)
-        { 
-            return Task.FromResult<IActionResult>(_repository.AddReport(testReport) ? Ok() : StatusCode(StatusCodes.Status500InternalServerError));
- 
+        {
+            //return Task.FromResult<IActionResult>(_repository.AddReport(testReport) ? Ok() : StatusCode(StatusCodes.Status500InternalServerError));
+            if (_repository.AddReport(testReport))
+            {
+                return Task.FromResult<IActionResult>(Ok());
+            }
+            else
+            {
+                return Task.FromResult<IActionResult>(StatusCode(StatusCodes.Status500InternalServerError));
+            }
+
         }
 
 

@@ -1,6 +1,7 @@
 import { Typography, Container } from '@mui/material';
-import React, { PureComponent } from 'react';
+import React, { Component } from 'react';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+
 
 const data = [
   {
@@ -40,7 +41,7 @@ const data = [
   },
 ];
 
-export default class Chart extends PureComponent {
+export class Chart extends Component {
   static demoUrl = 'https://codesandbox.io/s/simple-area-chart-4ujxw';
   static displayName = Chart.name;
   render() {
