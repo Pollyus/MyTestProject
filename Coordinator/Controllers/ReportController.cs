@@ -34,9 +34,8 @@ namespace Coordinator.Controllers
         [HttpPost("load")]
         public Task<IActionResult> UploadFile([FromBody] TestReportLoad testReport)
         { 
-           
             return Task.FromResult<IActionResult>(_repository.AddReport(testReport) ? Ok() : StatusCode(StatusCodes.Status500InternalServerError));
-           
+ 
         }
 
 
