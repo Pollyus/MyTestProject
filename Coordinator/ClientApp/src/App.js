@@ -5,7 +5,6 @@ import { Home } from './components/Home';
 import  { Chart } from './components/Chart';
 import { ReportData } from './components/ReportData';
 import { ResultData } from './components/ResultData';
-
 import './custom.css'
 
 export default class App extends Component {

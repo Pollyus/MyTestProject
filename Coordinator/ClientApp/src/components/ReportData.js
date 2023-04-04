@@ -78,6 +78,32 @@ export class ReportData extends Component {
  
 
   render() {
+  <div>
+        <Typography>
+        Test run details
+            Total tests
+            1
+
+            Passed  : 1
+            Failed  : 0
+            Skipped : 0
+            Pass percentage
+            100 %
+
+            Run duration
+            1s 600ms
+
+
+            All Results
+            C:\Учеба\Практика\MyCalc\MyCalcTests\bin\Debug\net6.0\MyCalcTests.dll
+            Informational messages
+            [xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 6.0.13)
+            [xUnit.net 00:00:00.61] Discovering: MyCalcTests
+            [xUnit.net 00:00:00.65] Discovered: MyCalcTests
+            [xUnit.net 00:00:00.65] Starting: MyCalcTests
+            [xUnit.net 00:00:00.71] Finished: MyCalcTests
+        </Typography>
+      </div>
     let contents = this.state.loading
       ? <p><em>Loading...</em></p>
       : ReportData.renderreportsTable(this.state.reports);
