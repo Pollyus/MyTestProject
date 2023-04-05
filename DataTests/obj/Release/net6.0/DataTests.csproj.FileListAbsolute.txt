@@ -1,5 +1,0 @@
-C:\Учеба\ПОКС\Диплом\Программа\MyTests\DataTests\obj\Release\net6.0\DataTests.csproj.AssemblyReference.cache
-C:\Учеба\ПОКС\Диплом\Программа\MyTests\DataTests\obj\Release\net6.0\DataTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Учеба\ПОКС\Диплом\Программа\MyTests\DataTests\obj\Release\net6.0\DataTests.AssemblyInfoInputs.cache
-C:\Учеба\ПОКС\Диплом\Программа\MyTests\DataTests\obj\Release\net6.0\DataTests.AssemblyInfo.cs
-C:\Учеба\ПОКС\Диплом\Программа\MyTests\DataTests\obj\Release\net6.0\DataTests.csproj.CoreCompileInputs.cache
