@@ -10,10 +10,10 @@ namespace Persistence.Options
         public string PostgresDataBase { get; set; } = string.Empty;
 
         [ConfigurationKeyName("POSTGRES_USER")]
-        public string PostgresUser { get; set; } = string.Empty;
+        public string PostgresUser { get; set; } = "postgres";
 
         [ConfigurationKeyName("POSTGRES_PASSWORD")]
-        public string PostgresPassword { get; set; } = string.Empty;
+        public string PostgresPassword { get; set; } = "348566";
 
         [ConfigurationKeyName("POSTGRES_HOST")]
         public string PostgresHost { get; set; } = "postgres";

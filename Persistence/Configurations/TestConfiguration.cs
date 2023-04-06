@@ -13,6 +13,10 @@ namespace Persistence.Configurations
                 .IsRequired()
                 .HasColumnName("Id");
 
+            builder.HasKey(test => test.Name);
+            builder.Property(test => test.Name)
+                .IsRequired();
+
             builder.Property(test => test.Namespace)
                 .HasMaxLength(45);
 

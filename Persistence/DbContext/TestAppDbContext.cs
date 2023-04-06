@@ -1,10 +1,11 @@
 ﻿using Application.Common.Interfaces;
 using Domain.Entities;
 using Persistence.Options;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Npgsql;
 using Persistence.Configurations;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Persistence.DbContext
 {
